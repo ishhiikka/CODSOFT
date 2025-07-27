@@ -1,28 +1,30 @@
-# Titanic Survival Prediction
+CodSoft Data Science Internship Projects
+Hi there, I'm Ishika Rai 👋
+Welcome to my project repository!
 
-This is my submission for Task 1 of the CODSOFT Data Science Internship. The goal was to use the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not.
+I'm a third-year Computer Science student at the Noida Institute of Engineering and Technology (NIET). I'm passionate about data science and machine learning, and I love turning data into meaningful stories and predictive models.
 
-### Tools Used
-- Python
-- Pandas, NumPy
-- Seaborn, Matplotlib
-- Scikit-learn
-- Google Colab
+This repository contains all the projects I completed during my Data Science Internship with CodSoft in July 2025. Each project is organized into its own folder.
 
-### Dataset
-Kaggle Titanic Dataset
-https://www.kaggle.com/datasets/yasserh/titanic-dataset
+Projects Included:
+Task 1: Titanic Survival Prediction
 
-### What I Did
-- Cleaned the dataset by handling missing values (filling 'Age' and dropping 'Cabin').
-- Encoded categorical variables ('Sex', 'Embarked') into numerical form using `LabelEncoder`.
-- Split the data into training and test sets.
-- Trained a `LogisticRegression` model.
-- Evaluated model performance using accuracy, a confusion matrix, and a classification report.
-- Plotted the survival rate by gender to visualize the results.
+A classification model to predict whether a passenger survived the Titanic disaster.
 
-### Accuracy
-The model achieved an accuracy of **78%** on the test data.
+Task 2: Movie Rating Prediction
 
-### Hashtags
-#codsoft #internship #machinelearning #titanic #datascience
+A regression model to predict movie ratings based on features like genre, director, and actors.
+
+Task 3: Iris Flower Classification
+
+A classic classification model to identify Iris flower species from their measurements.
+
+Task 4: Sales Prediction
+
+A regression model to forecast product sales based on advertising spend.
+
+Task 5: Credit Card Fraud Detection
+
+An advanced classification model to identify fraudulent credit card transactions.
+
+Feel free to explore the folders to see the code and detailed README for each task. Thanks for stopping by!

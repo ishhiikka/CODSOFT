@@ -1,7 +1,5 @@
 CodSoft Data Science Internship Projects
 Hi there, I'm Ishika Rai 👋
-Welcome to my project repository!
-
 I'm a third-year Computer Science student at the Noida Institute of Engineering and Technology (NIET). I'm passionate about data science and machine learning, and I love turning data into meaningful stories and predictive models.
 
 This repository contains all the projects I completed during my Data Science Internship with CodSoft in July 2025. Each project is organized into its own folder.
